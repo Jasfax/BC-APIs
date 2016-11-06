@@ -1,2 +1,4 @@
 # BC-APIs
-BLOXCity API Usage. 
+BLOXCity API Usage.
+
+This repository will be about using BLOXCity's existing APIs.
